@@ -4,48 +4,32 @@
 
 <p>
   <a href="https://openreview.net/forum?id=MGgAJ8yy2D">
-    <img src="https://img.shields.io/badge/OpenReview-SGLDet-8c1b13?style=for-the-badge&logo=openreview" alt="OpenReview"/>
+    <img src="https://img.shields.io/badge/OpenReview-Paper-8C1515?style=flat-square&logo=openreview&logoColor=white" alt="OpenReview"/>
   </a>
-  &nbsp;
-  <a href="https://iclr.cc/virtual/2026/poster/XXXXX">
-    <img src="https://img.shields.io/badge/ICLR-2026-4b44ce?style=for-the-badge&logo=openreview" alt="ICLR 2026"/>
-  </a>
-  &nbsp;
   <a href="https://gw-shin.github.io/sgldet-page/">
-    <img src="https://img.shields.io/badge/Project%20Page-SGLDet-blue?style=for-the-badge&logo=githubpages" alt="Project Page"/>
+    <img src="https://img.shields.io/badge/🌐_Project-Page-4A90D9?style=flat-square" alt="Project Page"/>
   </a>
-  &nbsp;
   <a href="https://github.com/gw-shin/SGLDet">
-    <img src="https://img.shields.io/github/stars/gw-shin/SGLDet?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/gw-shin/SGLDet?style=flat-square&logo=github&label=Stars" alt="GitHub Stars"/>
   </a>
-  &nbsp;
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge" alt="License"/>
+    <img src="https://img.shields.io/badge/License-Apache_2.0-green?style=flat-square" alt="License"/>
   </a>
 </p>
 
 <!-- arxiv badge: uncomment when available
   <a href="https://arxiv.org/abs/XXXX.XXXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=for-the-badge&logo=arxiv" alt="arXiv"/>
+    <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
 -->
 
-<!-- <p>
-  <img src="https://img.shields.io/badge/DARK%20FACE-76.6%20mAP%20🏆%20SOTA-ff6f00?style=flat-square" alt="DARK FACE SOTA"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/ExDark-78.6%20mAP%20🏆%20SOTA-ff6f00?style=flat-square" alt="ExDark SOTA"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/nuImages%20Night-58.0%20mAP%20🏆%20SOTA-ff6f00?style=flat-square" alt="nuImages SOTA"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Inference%20Overhead-None%20✅-brightgreen?style=flat-square" alt="No Inference Overhead"/>
-</p> -->
-
 <br/>
 
- **[Self-Guided Low Light Object Detection Framework](https://openreview.net/forum?id=MGgAJ8yy2D)**  
-> [Gwangik Shin](https://github.com/gw-shin) · Jaeha Song · Soonmin Hwang†  
-> Department of Automotive Engineering, Hanyang University  
-> ***ICLR 2026***
+[Gwangik Shin](https://www.linkedin.com/in/gwangik-shin/) · [Jaeha Song](https://www.linkedin.com/in/archiiive99/) · [Soonmin Hwang](https://soonminhwang.github.io/)†
+
+Department of Automotive Engineering, Hanyang University
+
+***ICLR 2026***
 
 <br/>
 
@@ -58,9 +42,8 @@
 ## News
 
 - [ ] Release pre-trained model weights
-- [ ] HuggingFace / Gradio demo
-- [x] `2026.01.22`: Paper accepted at **ICLR 2026** 🎉
 - [ ] Code coming soon
+- [x] `2026.01.22`: Paper accepted at **ICLR 2026** 🎉
 
 ---
 
