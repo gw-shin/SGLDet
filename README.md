@@ -1,11 +1,11 @@
+# SGLDet: Self-Guided Low Light Object Detection Framework
+
+<div align="center">
+
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-blue?logo=arxiv&color=%23B31B1B)](https://arxiv.org/abs/XXXX.XXXXX) -->
 [![OpenReview](https://img.shields.io/badge/OpenReview-SGLDet-blue?logo=openreview&color=%238C1515)](https://openreview.net/forum?id=MGgAJ8yy2D)
 [![ProjectPage](https://img.shields.io/badge/Project_Page-SGLDet-blue)](https://gw-shin.github.io/sgldet-page/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
-
-# SGLDet: Self-Guided Low Light Object Detection Framework
-
-<div align="center">
 
 [Gwangik Shin](https://www.linkedin.com/in/gwangik-shin/) · [Jaeha Song](https://www.linkedin.com/in/archiiive99/) · [Soonmin Hwang](https://soonminhwang.github.io/)†
 
