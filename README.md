@@ -1,6 +1,6 @@
-# SGLDet: Self-Guided Low Light Object Detection Framework
-
 <div align="center">
+
+# SGLDet: Self-Guided Low Light Object Detection Framework
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-blue?logo=arxiv&color=%23B31B1B)](https://arxiv.org/abs/XXXX.XXXXX) -->
 [![OpenReview](https://img.shields.io/badge/OpenReview-SGLDet-blue?logo=openreview&color=%238C1515)](https://openreview.net/forum?id=MGgAJ8yy2D)
